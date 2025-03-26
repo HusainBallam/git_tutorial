@@ -1,1 +1,3 @@
-# git_tutorial
+### git_tutorial
+
+I'm watching a YouTube video from freeCodeCamp about Git...
